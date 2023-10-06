@@ -146,3 +146,5 @@ ulaşabilirsin **artk_erby@outlook.com**
     alt="erbayartuk"
   />
 </p>
+
+![snake gif](https://github.com/erbayartuk/erbayartuk/blob/output/github-contribution-grid-snake.gif)
