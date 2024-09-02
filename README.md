@@ -1,8 +1,7 @@
-![MasterHead](https://graffersid.com/wp-content/uploads/2022/09/MERN-Stack-1.jpg)
 <h1 align="center">Merhaba 👋, ben Erbay Artuk</h1>
 <h3 align="center">Türkiye'den tutkulu bir Fullstack Developer'ım</h3>
 
-- 🔭 Şu anda **Mern Stack ile E-Ticaret sistemi üzerinde çalışıyorum** - 🌱 Şu anda **Swift, SwiftUI**
+- 🔭 Şu anda **Mern Stack ile E-Ticaret sistemi üzerinde çalışıyorum** - 🌱 Şu anda React Native
 öğreniyorum - 💬 Bana **React, Flutter** hakkında soru sor - 📫 Bana nasıl
 ulaşabilirsin **artk_erby@outlook.com**
 
